@@ -1,0 +1,11 @@
+body {
+    background-image:url("background.jpg");
+}
+
+#console {
+    background-image:url("game_console.png");
+    background-size:cover;
+    padding-top:60px;
+    margin-left:100px;
+    margin-right:80px;
+}
